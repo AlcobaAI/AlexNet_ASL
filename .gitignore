@@ -1,0 +1,5 @@
+test/
+train/
+__pycache__/
+.ipynb_checkpoints/
+model/model_alexnet_asl.pt
